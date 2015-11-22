@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../simple_tfidf_japanese/.idea/simple_tfidf_japanese.iml" filepath="$PROJECT_DIR$/../simple_tfidf_japanese/.idea/simple_tfidf_japanese.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/text_serarch_prototype.iml" filepath="$PROJECT_DIR$/.idea/text_serarch_prototype.iml" />
+    </modules>
+  </component>
+</project>
+

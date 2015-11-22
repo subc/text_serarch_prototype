@@ -1,0 +1,5 @@
+easy_install lxml
+pip install beautifulsoup4
+pip install janome
+pip install nltk
+
