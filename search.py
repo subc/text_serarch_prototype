@@ -13,7 +13,6 @@ class Search(object):
         """
         # vを形態素解析して特徴ベクトルを抽出
         tfidf = TFIDF.gen(v)
-        print tfidf
         s = Storage()
         result = defaultdict(float)
         for search_word, search_score in tfidf:
@@ -48,11 +47,11 @@ def printer(l, keyword):
 def main():
     v = "体の抗酸化力や解毒力"
     printer(Search.search(v), v)
-    #
-    # v = "地域型JPドメイン名"
-    # printer(Search.search(v), v)
 
-    v = "ニュートリノを除く質量のある粒子の中で最も軽い素粒子"
+    v = "地域型JPドメイン名"
+    printer(Search.search(v), v)
+
+    v = "アフリカ人 アイデンティティ 競争的資本主義体制 階級闘争"
     printer(Search.search(v), v)
 
 main()

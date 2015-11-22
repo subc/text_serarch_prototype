@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9aa72d9-94ae-4423-b4e0-ec6efeb48356" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tx/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_import.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/install" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/jawiki-latest-all-titles-in-ns0" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/other.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tx/storage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/testrunner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/text_serarch_prototype.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tx/tfidf.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/install" afterPath="$PROJECT_DIR$/install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/search.py" afterPath="$PROJECT_DIR$/search.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="text_serarch_prototype.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,10 +41,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="data_import.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="data_import.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_import.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="51" selection-start="220" selection-end="251" vertical-scroll-proportion="0.05196629">
+            <state line="9" column="51" selection-start="0" selection-end="997" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#24#80#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tfidf.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tx/tfidf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="20" selection-start="268" selection-end="268" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#24#80#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="install" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/install">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="17" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="0" selection-start="79" selection-end="79" vertical-scroll-proportion="0.23174158">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/search.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="0" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#24#80#0" expanded="true" />
               </folding>
@@ -69,7 +95,7 @@
       <file leaf-file-name="storage.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tx/storage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
+            <state line="6" column="0" selection-start="0" selection-end="2118" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#24#80#0" expanded="true" />
               </folding>
@@ -95,7 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/tx/test.py" />
         <option value="$PROJECT_DIR$/tx/__init__.py" />
         <option value="$PROJECT_DIR$/tx/module/test/__init__.py" />
         <option value="$PROJECT_DIR$/tx/cgi-bin/search.py" />
@@ -103,14 +128,15 @@
         <option value="$PROJECT_DIR$/tx/data_import.py" />
         <option value="$PROJECT_DIR$/p.py" />
         <option value="$PROJECT_DIR$/cgi-bin/test.py" />
-        <option value="$PROJECT_DIR$/install" />
         <option value="$PROJECT_DIR$/tx/tfidif.py" />
         <option value="$USER_HOME$/.virtualenvs/tx/lib/python2.7/site-packages/janome/tokenizer.py" />
         <option value="$PROJECT_DIR$/tx/redis.py" />
         <option value="$PROJECT_DIR$/tx/tfidf.py" />
+        <option value="$PROJECT_DIR$/tx/storage.py" />
         <option value="$PROJECT_DIR$/data_import.py" />
         <option value="$PROJECT_DIR$/search.py" />
-        <option value="$PROJECT_DIR$/tx/storage.py" />
+        <option value="$PROJECT_DIR$/install" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -165,7 +191,9 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Default" />
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -320,13 +348,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="29" width="1420" height="860" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18340611" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2838428" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -439,13 +467,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/install">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="82" selection-end="82" vertical-scroll-proportion="0.105337076">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/jawiki-latest-all-titles-in-ns0">
       <provider selected="true" editor-type-id="LargeFileEditor">
         <state />
@@ -467,7 +488,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="43" selection-start="547" selection-end="558" vertical-scroll-proportion="-0.11235955">
+        <state line="15" column="0" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#24#80#0" expanded="true" />
           </folding>
@@ -476,16 +497,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tx/tfidf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="38" selection-start="324" selection-end="339" vertical-scroll-proportion="0.31601125">
-          <folding>
-            <element signature="e#24#80#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tx/storage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
+        <state line="11" column="20" selection-start="268" selection-end="268" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#24#80#0" expanded="true" />
           </folding>
@@ -494,10 +506,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data_import.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="51" selection-start="220" selection-end="251" vertical-scroll-proportion="0.05196629">
+        <state line="9" column="51" selection-start="0" selection-end="997" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#24#80#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx/storage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="0" selection-end="2118" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#24#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="17" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="79" selection-end="79" vertical-scroll-proportion="0.23174158">
+          <folding />
         </state>
       </provider>
     </entry>
